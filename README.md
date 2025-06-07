@@ -25,3 +25,5 @@ El menú permite al usuario seleccionar entre los siguientes ejercicios:
     Cuenta regresiva del 10 al 1 (for)
 
     Verificación de número primo (while)
+
+    https://replit.com/@juanmgarcia1/eleccion-for-while-do-while-c?v=1
