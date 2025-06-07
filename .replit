@@ -1,1 +1,1 @@
-run = "codigo c"
+run = "codigo c -o main && ./main"
