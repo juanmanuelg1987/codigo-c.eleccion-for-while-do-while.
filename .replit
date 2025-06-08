@@ -1,1 +1,2 @@
-run = "codigo c -o main && ./main"
+run = "gcc main.c -o main && ./main"
+language = "c"
